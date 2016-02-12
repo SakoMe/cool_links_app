@@ -18,7 +18,7 @@
 @import "bootstrap";
 
 #logo {
-	font-size: 26px;
+	font-size: 28px;
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: -1px;
@@ -44,14 +44,15 @@
 		}
 	}
 	.comments_title {
-		margin-top: 2em;
+		margin-top: 3em;
 	}
 	#comments {
 		.comment {
 			padding: 1em 0;
 			border-top: 1px solid #E9E9E9;
 			.lead {
-				margin-bottom: 0;
+				margin-bottom: 0.5em;
+				font-size: 1.2em;
 			}
 		}
 	}
